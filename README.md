@@ -1,5 +1,17 @@
 # <p align="center">⚡ 𝐌𝐫.𝐌𝐮𝐧𝐞𝐞𝐛 𝐀𝐥𝐢 - 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐀𝐏𝐈 𝐏𝐨𝐫𝐭𝐚𝐥 ⚡</p>
 
+<!-- 👇 1. Dynamic Typing Text Animation Effect 👇 -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=𝐌𝐫.+𝐌𝐮𝐧𝐞𝐞𝐛+𝐀𝐥𝐢;𝐏𝐫𝐢𝐯𝐚𝐭𝐞+𝐀𝐏I+𝐏𝐨𝐫𝐭𝐚𝐥;🔥+𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐲+𝐖𝐨𝐫𝐥𝐝+🔥" alt="Typing Effect" />
+  </a>
+</p>
+
+<!-- 👇 2. Aapki Upload Hui Image (Bot Image) 👇 -->
+<p align="center">
+  <img src="bot_image.jpg" alt="Muneeb Ali Bot Dashboard" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+</p>
+
 <p align="center">
   <!-- Working Code Repo Button -->
   <a href="https://github.com/mrmuneebali907-byte/muneeb-api-portal/commits/main"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"></a>
