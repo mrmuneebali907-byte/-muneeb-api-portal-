@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
-  <img src="https://img.shields.io/badge/Owner-Mr.%20Muneeb%20Ali-blue" alt="Owner">
+  <!-- Owner button par click karne se direct aapka WhatsApp khulega -->
+  <a href="https://wa.me/923329838699"><img src="https://img.shields.io/badge/Owner-Mr.%20Muneeb%20Ali-blue" alt="Owner"></a>
   <img src="https://img.shields.io/badge/AI--Engine-Groq%20Cloud-orange" alt="AI Engine">
   <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-brightgreen" alt="Backend">
 </p>
