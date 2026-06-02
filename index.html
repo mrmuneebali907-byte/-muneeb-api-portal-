@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>𝐌𝐫.𝐌𝐮𝐧𝐞𝐞𝐛 𝐀𝐥𝐢 - Private Portal</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+        body { background: linear-gradient(135deg, #070a13, #0f172a); color: #fff; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 20px; }
+        .container { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.08); padding: 40px; border-radius: 24px; width: 100%; max-width: 550px; text-align: center; box-shadow: 0 30px 60px rgba(0,0,0,0.6); }
+        h1 { font-weight: 800; font-size: 2.6rem; background: linear-gradient(to right, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 5px; }
+        .subtitle { color: #64748b; font-size: 0.95rem; margin-bottom: 30px; letter-spacing: 1px; }
+        .panel-card { background: rgba(0, 0, 0, 0.4); border-radius: 16px; padding: 25px; text-align: left; border-top: 4px solid #38bdf8; box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); }
+        .status-badge { display: inline-block; background: rgba(56, 189, 248, 0.1); color: #38bdf8; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; margin-bottom: 15px; }
+        .api-label { font-size: 0.85rem; color: #94a3b8; font-weight: 600; text-transform: uppercase; }
+        .api-url { background: #020617; padding: 14px; border-radius: 10px; font-family: monospace; font-size: 0.85rem; color: #34d399; margin-top: 8px; display: block; text-decoration: none; border: 1px solid rgba(255,255,255,0.05); overflow-x: auto; white-space: nowrap; }
+        .api-url:hover { border-color: #34d399; }
+        .footer { margin-top: 30px; font-size: 0.75rem; color: #475569; font-weight: 500; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>𝐌𝐫.𝐌𝐮𝐧𝐞𝐞𝐛 𝐀𝐥𝐢</h1>
+        <div class="subtitle">MY PRIVATE API CONTROL</div>
+
+        <div class="panel-card">
+            <span class="status-badge">Active & Private</span>
+            <div class="api-label">Personal Chatbot Endpoint:</div>
+            <!-- Yeh link automatic aapki live website ka URL utha legi -->
+            <a href="#" id="myApiLink" target="_blank" class="api-url">Generating Endpoint...</a>
+        </div>
+
+        <div class="footer">
+            OWNER PORTAL &copy; 2026
+        </div>
+    </div>
+
+    <script>
+        const host = window.location.origin;
+        const finalLink = `${host}/api/grok?text=Tu+kaun+hai`;
+        document.getElementById('myApiLink').href = finalLink;
+        document.getElementById('myApiLink').innerText = finalLink;
+    </script>
+</body>
+</html>
