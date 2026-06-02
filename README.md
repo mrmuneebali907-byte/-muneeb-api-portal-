@@ -1,11 +1,14 @@
 # <p align="center">⚡ 𝐌𝐫.𝐌𝐮𝐧𝐞𝐞𝐛 𝐀𝐥𝐢 - 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐀𝐏𝐈 𝐏𝐨𝐫𝐭𝐚𝐥 ⚡</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
-  <!-- Owner button par click karne se direct aapka WhatsApp khulega -->
+  <!-- Working Code Repo Button -->
+  <a href="https://github.com/mrmuneebali907-byte/muneeb-api-portal/commits/main"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"></a>
+  <!-- Aapka Working WhatsApp Link -->
   <a href="https://wa.me/923329838699"><img src="https://img.shields.io/badge/Owner-Mr.%20Muneeb%20Ali-blue" alt="Owner"></a>
-  <img src="https://img.shields.io/badge/AI--Engine-Groq%20Cloud-orange" alt="AI Engine">
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-brightgreen" alt="Backend">
+  <!-- Working Groq Cloud Official Link -->
+  <a href="https://console.groq.com/"><img src="https://img.shields.io/badge/AI--Engine-Groq%20Cloud-orange" alt="AI Engine"></a>
+  <!-- Working Express JS Official Link -->
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-brightgreen" alt="Backend"></a>
 </p>
 
 ---
@@ -47,4 +50,3 @@ If you intend to replicate or test this project workspace locally, execute the f
 ```bash
    git clone [https://github.com/mrmuneebali907-byte/muneeb-api-portal.git](https://github.com/mrmuneebali907-byte/muneeb-api-portal.git)
    cd muneeb-api-portal
-   
