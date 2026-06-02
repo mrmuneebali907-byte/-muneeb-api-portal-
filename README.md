@@ -1,10 +1,11 @@
 # <p align="center">⚡ 𝐌𝐫.𝐌𝐮𝐧𝐞𝐞𝐛 𝐀𝐥𝐢 - 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐀𝐏𝐈 𝐏𝐨𝐫𝐭𝐚𝐥 ⚡</p>
 
-<!-- 👇 FIXED: Typing Text Animation Link 👇 -->
+<!-- 👇 100% WORKING GITHUB NATIVE ANIMATED TEXT 👇 -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Mr.+Muneeb+Ali;Private+API+Portal;🔥+Welcome+To+My+World+🔥" alt="Typing Effect" />
-  </a>
+  <samp>
+    <b>🚀 [ 𝐌𝐫. 𝐌𝐮𝐧𝐞𝐞𝐛 𝐀𝐥𝐢 ] 🚀</b><br>
+    <sub>💻 <i>Private API Portal & Automation Hub</i> 💻</sub>
+  </samp>
 </p>
 
 <!-- 👇 Aapki Upload Hui Image 👇 -->
